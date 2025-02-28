@@ -16,7 +16,7 @@ const dataFromJS = [
         place: "Cab - 7/2"
     },
     {
-        fileNamr: "Arun Barua[Staff H/L]",
+        fileName: "Arun Barua[Staff H/L]",
         place: "Cab - 1/1"
     }
 ]
