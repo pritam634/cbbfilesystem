@@ -226,7 +226,12 @@ const dataFromJS = [
     {
         fileName: "Ms. Shamsher & Sons",
         place: "Cab - 2/1"
+    },
+    {
+        fileName: "Bil Enterprise",
+        place: "Cab - 2/4"
     }
+
 ]
 /*
      ,
