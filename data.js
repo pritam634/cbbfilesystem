@@ -90,6 +90,10 @@ const dataFromJS = [
     {
         fileName : "Bidyut Dhandapat",
         place: "Cab - 1/2"
+    }, 
+    {
+        fileName : "Anjan Kumar Roy",
+        place: ""
     }
 ]
 
@@ -118,7 +122,8 @@ const dataFromJS = [
 
 // append in the table
 dataFromJS.forEach((row) => {
-    document.querySelector("#tableBody").innerHTML=`<tr>
+    docum
+        ent.querySelector("#tableBody").innerHTML=`<tr>
             <td>${row.fileName}</td>
             <td>${row.place}</td>
         </tr>
