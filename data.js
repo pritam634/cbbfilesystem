@@ -18,6 +18,30 @@ const dataFromJS = [
     {
         fileName: "Arun Barua[Staff H/L]",
         place: "Cab - 1/1"
+    },
+    {
+        fileName: "Neel Kantha [Staff H/L]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Vinod Kumar Shaw [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Arty Tirky [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Rupesh Kumar [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Tsnushree Dutta [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Ajay Prasad",
+        place: "Cab - 1/1"
     }
 ]
 
