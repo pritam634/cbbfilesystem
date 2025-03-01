@@ -230,6 +230,26 @@ const dataFromJS = [
     {
         fileName: "Bil Enterprise",
         place: "Cab - 2/4"
+    },
+    {
+        fileName: "IABA Housing Pvt Ltd",
+        place: "Cab - 2/4"
+    },
+    {
+        fileName: "S.R. Enterprise",
+        place: "Cab - 2/4"
+    },
+    {
+        fileName: "MS Tulshi Paper Shop",
+        place: "Cab - 2/4"
+    },
+    {
+        fileName: "PAPL",
+        place: "Cab - 2/4"
+    },
+    {
+        fileName: "Nirman Design",
+        place: "Cab - 2/4"
     }
 
 ]
