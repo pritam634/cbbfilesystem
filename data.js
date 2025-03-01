@@ -138,6 +138,94 @@ const dataFromJS = [
     {
         fileName: "Atanu Chaterjee",
         place: "Cab - 1/3"
+    },
+    {
+        fileName: "Chandan Mahanty",
+        place: "Cab - 1/3"
+    },
+    {
+        fileName: "Tapas Banerjee",
+        place: "Cab - 1/3"
+    },
+    {
+        fileName: "Rahul Kr. Sarkar",
+        place: "Cab - 1/3"
+    },
+    {
+        fileName: "Baliram Bhakat",
+        place: "Cab - 1/3"
+    },
+    {
+        fileName: "Durga Prasad Bhagat",
+        place: "Cab - 1/3"
+    },
+    {
+        fileName: "Mitali Sarkar",
+        place: "Cab - 1/4"
+    },
+    {
+        fileName: "Taniya Biswas",
+        place: "Cab - 1/4"
+    },
+    {
+        fileName: "Santosh Kr Jha",
+        place: "Cab - 1/4"
+    },
+    {
+        fileName: "Manish Dalmia",
+        place: "Cab - 1/4"
+    },
+    {
+        fileName: "Pallab Ganguly",
+        place: "Cab - 1/4"
+    },
+    {
+        fileName: "Shamsher Alam",
+        place: "Cab - 1/4"
+    },
+    {
+        fileName: "Md. Akbar",
+        place: "Cab - 1/4"
+    },
+    {
+        fileName: "Mahefooz Alam",
+        place: "Cab - 1/4"
+    },
+    {
+        fileName: "Naresh Majhi",
+        place: "Cab - 1/4"
+    },
+    {
+        fileName: "Md. Shadab Alam",
+        place: "Cab - 2/1"
+    },
+    {
+        fileName: "Vikash Agarwal",
+        place: "Cab - 2/1"
+    },
+    {
+        fileName: "Dilip Kr. Gupta",
+        place: "Cab - 2/1"
+    },
+    {
+        fileName: "Atanu Biswas",
+        place: "Cab - 2/1"
+    },
+    {
+        fileName: "Md. Asgar Ali [Staff HL]",
+        place: "Cab - 2/1"
+    },
+    {
+        fileName: "Rajesh Kumar [Staff HL]",
+        place: "Cab - 2/1"
+    },
+    {
+        fileName: "Ashoke Kr. Das",
+        place: "Cab - 2/1"
+    },
+    {
+        fileName: "Ms. Shamsher & Sons",
+        place: "Cab - 2/1"
     }
 ]
 /*
