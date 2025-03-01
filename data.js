@@ -40,10 +40,59 @@ const dataFromJS = [
         place: "Cab - 1/1"
     },
     {
-        fileName: "Ajay Prasad",
+        fileName: "Ajay Prasad [Staff HL]",
         place: "Cab - 1/1"
+    },
+    {
+        fileName: "Jhuma Saha [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Sudeshna Gupta [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Promod Kumar Sharma [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Uttam Karmakar [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Ved Prakash [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Vivekanand Jha [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Dinanath Ram [Staff HL]",
+        place: "Cab - 1/1"
+    },
+    {
+        fileName: "Niraj Prasad [Staff HL]",
+        place: "Cab - 1/1"
+    }, 
+    {
+        fileName : "Nilanjan Sain",
+        place: "Cab - 1/2"
+    }, 
+    {
+        fileName : "Prasanta Kumar Ghosh",
+        place: "Cab - 1/2"
+    }, 
+    {
+        fileName : "Dilip & Amit Chawla",
+        place: "Cab - 1/2"
+    }, 
+    {
+        fileName : "Bidyut Dhandapat",
+        place: "Cab - 1/2"
     }
 ]
+
 
 
 
