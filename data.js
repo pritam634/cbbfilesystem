@@ -93,10 +93,61 @@ const dataFromJS = [
     }, 
     {
         fileName : "Anjan Kumar Roy",
-        place: ""
+        place: "Cab - 1/2"
+    }, 
+    {
+        fileName : "Dinesh Gupta & Manju Gupta",
+        place: "Cab - 1/2"
+    }, 
+    {
+        fileName : "Ranu Sengupta",
+        place: "Cab - 1/2"
+    }, 
+    {
+        fileName : "Nishu Kumar",
+        place: "Cab - 1/2"
+    }, 
+    {
+        fileName : "Sucheta Mukherjee",
+        place: "Cab -. 1/2"
+    }, 
+    {
+        fileName : "Sharwan Kumar",
+        place: "Cab - 1/2"
+    }, 
+    {
+        fileName : "Anil Jain",
+        place: "Cab - 1/3"
+    }, 
+    {
+        fileName : "Md. Shami Alam",
+        place: "Cab - 1/3"
+    },
+    {
+        fileName: "Ramakant Tiwari",
+        place: "Cab - 1/3"
+    },
+    {
+        fileName: "Sita Devi",
+        place: "Cab - 1/3"
+    },
+    {
+        fileName: "Shilpi Garg",
+        place: "Cab - 1/3"
+    },
+    {
+        fileName: "Atanu Chaterjee",
+        place: "Cab - 1/3"
     }
 ]
+/*
+     ,
+    {
+        fileName: "",
+        place: ""
+    }
 
+*/
 
 
 
