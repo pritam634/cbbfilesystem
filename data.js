@@ -174,6 +174,10 @@ const dataFromJS = [
     {
         fileName: "Manish Dalmia",
         place: "Cab - 1/4"
+    },,
+    {
+        fileName: "Amit Mondal",
+        place: "Cab - 1/4"
     },
     {
         fileName: "Pallab Ganguly",
@@ -250,6 +254,70 @@ const dataFromJS = [
     {
         fileName: "Nirman Design",
         place: "Cab - 2/4"
+    },
+    {
+        fileName: "Singh Construction",
+        place: "Cab - 3/3"
+    },
+    {
+        fileName: "DK Enterprise",
+        place: "Cab - 3/3"
+    },
+    {
+        fileName: "Commercial Combination",
+        place: "Cab - 3/3"
+    },
+    {
+        fileName: "Nakuleshwar Agro Products Pvt Ltd",
+        place: "Cab - 3/3"
+    },
+    {
+        fileName: "CP Re-Rlooers, Saha Brothers, Chaterjee Hardware Store, Jay Durga Enterprises",
+        place: "Cab - 3/2"
+    },
+    {
+        fileName: "Banik Stores, The Icon, Maa Durga Coal Traders, Marvelous Infra, ",
+        place: "Cab - 3/1"
+    },
+    {
+        fileName: "Matangi Steels, CP Ispat Pvt Ltd, Jayanti Enterprise",
+        place: "Cab - 3/4"
+    },
+    {
+        fileName: "Pobi Infrastructure Pvt Lte, Manage N Company",
+        place: "Cab - 4/1"
+    },
+    {
+        fileName: "Allied Iron Products Pvt Ltd, Pratisthan Kishan Filing Centre",
+        place: "Cab - 4/1"
+    },
+    {
+        fileName: "Sujay Dutta (HL)",
+        place: "Cab - 4/1"
+    },
+    {
+        fileName: "Bangal Paper, Reshmi Trading, Akash Gas, Sen Enterprise",
+        place: "Cab - 4/2"
+    },
+    {
+        fileName: "Calcutta Power Construction, Aries Clean Coal Pvt Ltd",
+        place: "Cab - 4/2"
+    },
+    {
+        fileName: "Mittal Concrete, Style In, SK Sharma",
+        place: "Cab - 4/3"
+    },
+    {
+        fileName: "Ganapati India International Pvt Ltd",
+        place: "Cab - 4/3, 5/4"
+    },
+    {
+        fileName: "Jayanti Construction, Jayanti Trading, Aavik Business Pvt Ltd, Lokenath Bhander",
+        place: "Cab - 5/1"
+    },
+    {
+        fileName: "Durgapur Social & Edu Trust, Shree Bhakatjee Ispat, Lifeline Hospital",
+        place: "Cab - 5/1"
     }
 
 ]
