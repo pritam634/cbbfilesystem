@@ -318,6 +318,22 @@ const dataFromJS = [
     {
         fileName: "Durgapur Social & Edu Trust, Shree Bhakatjee Ispat, Lifeline Hospital",
         place: "Cab - 5/1"
+    },
+    {
+        fileName: "Goutam Trading, Gupta Traders, Maa Kali Traders",
+        place: "Cab - 5/2"
+    },
+    {
+        fileName: "Nirman Cons Pvt Ltd, Ranmak Works Pvt Ltd, Durgapur Computer Centre",
+        place: "Cab - 5/3"
+    },
+    {
+        fileName: "Gupta Poly Traders, GD Infra, Nigam Trading",
+        place: "Cab - 5/4"
+    },
+    {
+        fileName: "SS Structural India",
+        place: "Cab - 5/4"
     }
 
 ]
